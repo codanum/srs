@@ -1,5 +1,5 @@
 # Fork
-This fork just makes compilation working on modern Linux
+This fork just makes SRS 2.0 compilation working on modern Linux
 
 # Simple-RTMP-Server
 
