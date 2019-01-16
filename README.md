@@ -1,3 +1,6 @@
+# Fork
+This fork just makes compilation working on modern Linux
+
 # Simple-RTMP-Server
 
 [![CircleCI](https://circleci.com/gh/ossrs/srs/tree/2.0release.svg?style=svg)](https://circleci.com/gh/ossrs/srs/tree/2.0release)
